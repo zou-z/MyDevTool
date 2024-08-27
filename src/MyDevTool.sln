@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DumpTool", "DumpTool\DumpTool.vcxproj", "{02266136-DD93-4153-853A-0E996FCFDF08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteObjFolder", "DeleteObjFolder\DeleteObjFolder.vcxproj", "{A45B0258-1D09-4AF8-BE02-F709D46AD799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{02266136-DD93-4153-853A-0E996FCFDF08}.Debug|x64.Build.0 = Debug|x64
 		{02266136-DD93-4153-853A-0E996FCFDF08}.Release|x64.ActiveCfg = Release|x64
 		{02266136-DD93-4153-853A-0E996FCFDF08}.Release|x64.Build.0 = Release|x64
+		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Debug|x64.ActiveCfg = Debug|x64
+		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Debug|x64.Build.0 = Debug|x64
+		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Release|x64.ActiveCfg = Release|x64
+		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

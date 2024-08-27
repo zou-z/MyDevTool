@@ -21,5 +21,13 @@ otuput the exports of dll file
 dumptool exports <file path>
 ```
 
+## DeleteObjFolder
+
+delete `obj` folders in `C#` project
+
+```
+deleteobjfolder <C# project root path>
+```
+
 
 
