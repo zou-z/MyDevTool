@@ -29,5 +29,11 @@ delete `obj` folders in `C#` project
 deleteobjfolder <C# project root path>
 ```
 
+## CreateQrCode
 
+create qr code
+
+```
+createqrcode <text>
+```
 

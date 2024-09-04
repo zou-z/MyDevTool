@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DumpTool", "DumpTool\DumpTo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteObjFolder", "DeleteObjFolder\DeleteObjFolder.vcxproj", "{A45B0258-1D09-4AF8-BE02-F709D46AD799}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateQrCode", "CreateQrCode\CreateQrCode.vcxproj", "{6630E87E-7421-44C0-B637-54262B49C772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Debug|x64.Build.0 = Debug|x64
 		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Release|x64.ActiveCfg = Release|x64
 		{A45B0258-1D09-4AF8-BE02-F709D46AD799}.Release|x64.Build.0 = Release|x64
+		{6630E87E-7421-44C0-B637-54262B49C772}.Debug|x64.ActiveCfg = Debug|x64
+		{6630E87E-7421-44C0-B637-54262B49C772}.Debug|x64.Build.0 = Debug|x64
+		{6630E87E-7421-44C0-B637-54262B49C772}.Release|x64.ActiveCfg = Release|x64
+		{6630E87E-7421-44C0-B637-54262B49C772}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

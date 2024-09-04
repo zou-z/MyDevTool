@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="QR-Code-generator\qrcodegen.cpp">
+      <Filter>QR-Code-generator</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>View</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="QR-Code-generator">
+      <UniqueIdentifier>{4f200c65-65c6-48a6-a2a6-abf7446d5e17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="View">
+      <UniqueIdentifier>{3fe50909-6949-49bc-a1fb-8e45c61368c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QR-Code-generator\qrcodegen.hpp">
+      <Filter>QR-Code-generator</Filter>
+    </ClInclude>
+    <ClInclude Include="MainWindow.h">
+      <Filter>View</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
